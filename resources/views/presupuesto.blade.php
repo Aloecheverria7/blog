@@ -3,30 +3,23 @@
 @yield('title')
 
 @section('content')
-<div id="heading-breadcrumbs">
-       <div class="container">
-         <div class="row d-flex align-items-center flex-wrap">
-           <div class="col-md-7">
-             <h1 class="h2">Shopping Cart</h1>
-           </div>
-           <div class="col-md-5">
-             <ul class="breadcrumb d-flex justify-content-end">
-               <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-               <li class="breadcrumb-item active">Shopping Cart</li>
-             </ul>
-           </div>
-         </div>
-       </div>
-     </div>
+<section id="page-title" style="
+      background-image: url(https://profesionales5estrellas.com/wp-content/themes/plumberx/img/resources/page-title-bg.jpg);      ">
+    <div class="overlay-clr" style=""></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="title pull-left"><h1>Consulta Tu Presupuesto</h1></div>       </div>
+      </div>
+    </div>
+  </section>
 
      <section id="blog-post" class="mainblock">
        <div class="container">
          <div id="post-1244" class="post-1244 page type-page status-publish hentry">
 
            <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 80px" ><span class="vc_empty_space_inner"></span></div>
-           </div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="section-title">
-           <h1>Consulta tu presupuesto</h1>
-         </div>
+           </div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
 
 
          <link rel='stylesheet' id='nex-forms-ui-css'  href='http://profesionales5estrellas.com/wp-content/plugins/nex-forms/css/ui.css?v7_2_7&#038;ver=5.0.1' type='text/css' media='all' />

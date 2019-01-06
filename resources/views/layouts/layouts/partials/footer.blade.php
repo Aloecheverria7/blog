@@ -17,7 +17,7 @@
 		<li><a href="http://profesionales5estrellas.com/#" class="hvr-radial-out"><i class="fa fa-google-plus"></i></a></li>
 		<li><a href="http://profesionales5estrellas.com/#" class="hvr-radial-out"><i class="fa fa-linkedin"></i></a></li>
 	</ul></div>
-		</div><div id="plumberx_widget_popular_posts-1" class="col-lg-3 col-md-3 col-sm-6 col-xs-6 widget widget_plumberx_widget_popular_posts"><h3>Entradas Recientes</h3><ul class="popular-post"></ul></div><div id="plumberx_widget_get_in_touch-3" class="col-lg-3 col-md-3 col-sm-6 col-xs-6 widget widget_plumberx_widget_get_in_touch"><h3>Estar en contacto</h3><ul class="contact-info">
+		</div><div id="plumberx_widget_popular_posts-1" class="col-lg-3 col-md-3 col-sm-6 col-xs-6 widget widget_plumberx_widget_popular_posts"><ul class="popular-post"></ul></div><div id="plumberx_widget_get_in_touch-3" class="col-lg-3 col-md-3 col-sm-6 col-xs-6 widget widget_plumberx_widget_get_in_touch"><h3>Estar en contacto</h3><ul class="contact-info">
 		<li><i class="fa fa-map-marker"></i><span>España</span></li>
 		<li><i class="fa fa-phone"></i>+34 610341742</li>
 		<li><i class="fa fa-envelope-o"></i><a href="mailto:gruposerviluz@gmail.com">gruposerviluz@gmail.com</a></li>

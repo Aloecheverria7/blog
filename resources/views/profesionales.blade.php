@@ -3,21 +3,18 @@
 @yield('title')
 
 @section('content')
-<div id="heading-breadcrumbs">
-       <div class="container">
-         <div class="row d-flex align-items-center flex-wrap">
-           <div class="col-md-7">
-             <h1 class="h2">Mi cuenta</h1>
-           </div>
-           <div class="col-md-5">
-             <ul class="breadcrumb d-flex justify-content-end">
-               <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-               <li class="breadcrumb-item active">My Account</li>
-             </ul>
-           </div>
-         </div>
-       </div>
-     </div>
+<section id="page-title" style="
+      background-image: url(https://profesionales5estrellas.com/wp-content/themes/plumberx/img/resources/page-title-bg.jpg);      ">
+    <div class="overlay-clr" style=""></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="title pull-left"><h1>Mi Cuenta</h1></div>       </div>
+      </div>
+    </div>
+  </section>
+
+
      <div id="content">
        <div class="container">
          <div class="row bar">

@@ -3,21 +3,18 @@
 @yield('title')
 
 @section('content')
-<div id="heading-breadcrumbs" class="brder-top-0 border-bottom-0">
-     <div class="container">
-       <div class="row d-flex align-items-center flex-wrap">
-         <div class="col-md-7">
-           <h1 class="h2">Contact</h1>
-         </div>
-         <div class="col-md-5">
-           <ul class="breadcrumb d-flex justify-content-end">
-             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-             <li class="breadcrumb-item active">Contact</li>
-           </ul>
-         </div>
-       </div>
-     </div>
-   </div>
+  <section id="page-title" style="
+      background-image: url(https://profesionales5estrellas.com/wp-content/themes/plumberx/img/resources/page-title-bg.jpg);      ">
+    <div class="overlay-clr" style=""></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="title pull-left"><h1>Contáctenos</h1></div>       </div>
+      </div>
+    </div>
+  </section>  
+
    <div id="content">
 
      <div id="contact" class="container">
@@ -28,7 +25,7 @@
                <h2>estamos para ayudarte</h2>
              </div>
              <p class="lead">¿Tiene alguna pregunta o comentario, no dude en contactar con nosotros. También puede llamarnos. Por favor, encuentre toda la información de contacto en el panel derecho. Intentamos comunicarnos con usted lo antes posible.</p>
-             <p class="text-sm">Please feel free to contact us, our customer service center is working for you 24/7.</p>
+             <p class="text-sm">Por favor, no dude en contactarnos, nuestro centro de servicio al cliente está trabajando para usted 24/7.</p>
              <div class="heading">
                <h3>Formulario de contacto</h3>
              </div>
@@ -36,13 +33,13 @@
                <div class="row">
                  <div class="col-md-6">
                    <div class="form-group">
-                     <label for="firstname">Firstname</label>
+                     <label for="firstname">Nombres</label>
                      <input id="firstname" type="text" class="form-control">
                    </div>
                  </div>
                  <div class="col-md-6">
                    <div class="form-group">
-                     <label for="lastname">Lastname</label>
+                     <label for="lastname">Apellidos</label>
                      <input id="lastname" type="text" class="form-control">
                    </div>
                  </div>
@@ -54,18 +51,18 @@
                  </div>
                  <div class="col-md-6">
                    <div class="form-group">
-                     <label for="subject">Subject</label>
+                     <label for="subject">Asunto</label>
                      <input id="subject" type="text" class="form-control">
                    </div>
                  </div>
                  <div class="col-md-12">
                    <div class="form-group">
-                     <label for="message">Message</label>
+                     <label for="message">Mensaje</label>
                      <textarea id="message" class="form-control"></textarea>
                    </div>
                  </div>
                  <div class="col-md-12 text-center">
-                   <button type="submit" class="btn btn-template-outlined"><i class="fa fa-envelope-o"></i> Send message</button>
+                   <button type="submit" class="btn btn-template-outlined"><i class="fa fa-envelope-o"></i> Enviar Mensaje</button>
                  </div>
                </div>
              </form>
@@ -74,7 +71,7 @@
 
          <div class="col-lg-4">
          <section class="bar mb-0">
-         <div class="col-lg-4"><ul>
+         <ul>
            <li class="clearfix">
              <img src="img/3-0.png" alt="">
              <div class="content">
@@ -96,7 +93,7 @@
                <p>+34  610341742</p>
              </div>
            </li></ul>
-         </div>
+         
          </section>
        </div>
        </div>

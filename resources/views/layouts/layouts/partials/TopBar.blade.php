@@ -4,7 +4,7 @@
       <div class="container">
           <div class="row d-flex align-items-center">
               <div class="col-md-6 d-md-block d-none">
-                  <h3>Contactanos: +34 610341742 O gruposerviluz@gmail.com</h1>
+                  <p>Contactanos: +34 610341742 O gruposerviluz@gmail.com</p>
               </div>
               <div class="col-md-6">
                   <div class="d-flex justify-content-md-end justify-content-between">
@@ -14,16 +14,11 @@
                       </ul>
                       <div class="login">
                       <a href="#" data-toggle="modal" data-target="#login-modal" class="login-btn">
-                      <i class="fa fa-sign-in"></i><span class="d-none d-md-inline-block">Sign In</span></a>
+                      <i class="fa fa-sign-in"></i><span class="d-none d-md-inline-block">Iniciar Sesión</span></a>
                       <a href="{{url('/clientes')}}" class="signup-btn"><i class="fa fa-user"></i>
-                      <span class="d-none d-md-inline-block">Sign Up</span></a></div>
+                      <span class="d-none d-md-inline-block">Registrarse</span></a></div>
 
-                      <ul class="social-custom list-inline">
-                          <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                          <li class="list-inline-item"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          <li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                          <li class="list-inline-item"><a href="#"><i class="fa fa-envelope"></i></a></li>
-                      </ul>
+                     
                   </div>
               </div>
           </div>

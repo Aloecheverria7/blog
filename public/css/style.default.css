@@ -595,7 +595,7 @@ p.lead {
 #heading-breadcrumbs .breadcrumb {
   margin-bottom: 0;
   background: none;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
 }
 
 #heading-breadcrumbs h1 {
@@ -1617,7 +1617,7 @@ header.nav-holder.sticky {
 .box-simple p {
   color: #999;
   margin: 20px 0;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
 }
 
 .box-simple.box-white {
@@ -3724,7 +3724,7 @@ a.text-primary:focus, a.text-primary:hover {
 }
 
 a.text-secondary:focus, a.text-secondary:hover {
-  color: #6c757d !important;
+  color:     !important;
 }
 
 .text-success {
